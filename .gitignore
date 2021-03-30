@@ -1,1 +1,3 @@
 /firstapp/firstapp/.env
+/*.pyc
+/firstapp/firstapp/__pycache__
